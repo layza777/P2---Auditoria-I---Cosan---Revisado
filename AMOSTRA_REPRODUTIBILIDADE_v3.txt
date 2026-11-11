@@ -1,0 +1,12 @@
+Script: 04_Codigos/gerar_amostra_risco_v3.py
+Semente: 20251111
+Registros: 400
+IDs únicos: 400
+SHA-256 do CSV: 62895dafc20ca61a20af603fd06caa7a34317f0b9e772058b548ec402637e980
+Estratos:
+Prazo original >90 dias: 150
+Restrição de liquidez simulada: 100
+Confirmação ausente simulada: 50
+50 maiores saldos remanescentes: 50
+Complemento aleatório: 50
+TOTAL: 400

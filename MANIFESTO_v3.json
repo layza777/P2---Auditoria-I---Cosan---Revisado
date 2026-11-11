@@ -1,0 +1,58 @@
+{
+  "README.md": {
+    "bytes": 1451,
+    "sha256": "6c8102180c7a5b0f4a35f684f692fb9a634d1aa5b67c25252202e31dc704ca82"
+  },
+  "AMOSTRA_REPRODUTIBILIDADE_v3.txt": {
+    "bytes": 361,
+    "sha256": "fd87de11f1f3decd4ce38b53c3dc6ab294fe7d6d5df16777dd3892cb6166eb58"
+  },
+  "01_Dossie/Memorando_Revisao_Tecnica_6_Melhorias.pdf": {
+    "bytes": 3575,
+    "sha256": "2f99b65c4e122ab86acd7a58ce0a606998be4ee52531bcfd485a1c528fef1c67"
+  },
+  "01_Dossie/Papeis_de_Trabalho_Cosan_2025_Revisados.docx": {
+    "bytes": 47606,
+    "sha256": "f87c4c5a6a3986ce3f5a39c80baaa04e105367b7c1d74fe7b63b9f3efc42bc7a"
+  },
+  "01_Dossie/Memorando_Conclusao_Integrada_Cosan_2025.pdf": {
+    "bytes": 7387,
+    "sha256": "a924dd2debc3263f76104698195be60f7a079112570d03d257b404037f6c383b"
+  },
+  "01_Dossie/Papeis_de_Trabalho_27_Normas_Individualizados_v3.docx": {
+    "bytes": 47606,
+    "sha256": "f87c4c5a6a3986ce3f5a39c80baaa04e105367b7c1d74fe7b63b9f3efc42bc7a"
+  },
+  "01_Dossie/Papeis_de_Trabalho_Cosan_2025_Revisados.pdf": {
+    "bytes": 32443,
+    "sha256": "fb49f454b42aae2dbaf2511cee36484efd0b735df4cebcfea925275030e29f9c"
+  },
+  "01_Dossie/Memorando_Conclusao_Integrada_Cosan_2025.docx": {
+    "bytes": 40073,
+    "sha256": "b83af9b7bc9667dea3c7ac7ee65792993f6ff0e3b5e95b624f2a2598bbf413b5"
+  },
+  "01_Dossie/Memorando_Revisao_Tecnica_6_Melhorias.docx": {
+    "bytes": 38075,
+    "sha256": "2ee7b3450887b2dfe55c2e6fc39027c558561abc5abda68416cd195751ca4664"
+  },
+  "01_Dossie/Papeis_de_Trabalho_27_Normas_Individualizados_v3.pdf": {
+    "bytes": 32443,
+    "sha256": "fb49f454b42aae2dbaf2511cee36484efd0b735df4cebcfea925275030e29f9c"
+  },
+  "04_Codigos/gerar_amostra_risco_v3.py": {
+    "bytes": 2019,
+    "sha256": "47ad7846f0700b2e823f440ea73b40096022abb13d60d5cf00938dbdb6abaa83"
+  },
+  "03_Base_Sintetica/base_caixa_sintetica_500000_v2.csv.gz": {
+    "bytes": 13640358,
+    "sha256": "9bddf213afb437b572402730d891a1a1747ac2de0820e61d5d84e85a0f1ab306"
+  },
+  "03_Base_Sintetica/amostra_risco_v3_400.csv": {
+    "bytes": 150963,
+    "sha256": "62895dafc20ca61a20af603fd06caa7a34317f0b9e772058b548ec402637e980"
+  },
+  "02_Planilhas/Planilha_Auditoria_Cosan_2025.xlsx": {
+    "bytes": 33341,
+    "sha256": "52c04130bdcbd7b643f9989ed1adc67ec78b7ef054c31921a308b662c0a2818a"
+  }
+}
